@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="IIMH.Properties.Settings.ALMACEN_RECOVERYConnectionString"
+            connectionString="Data Source=mssql-207678-0.cloudclusters.net,10055;Initial Catalog=BD_Essalud_MD;Persist Security Info=True;User ID=martin;Password=Sistemasbillar1"
+            providerName="System.Data.SqlClient" />
+        <add name="IIMH.Properties.Settings.ALMACENConnectionString"
+            connectionString="Data Source=mssql-207678-0.cloudclusters.net,10055;Initial Catalog=BD_Essalud_MD;Persist Security Info=True;User ID=martin;Password=Sistemasbillar1"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
